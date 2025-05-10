@@ -1,7 +1,7 @@
 *.npz
 *.npy
 /*.png
-/njl_02.ipynb
-/njl_fsolve.py
-/njl_test.py
+Python/njl_02.ipynb
+Python/njl_fsolve.py
+Python/njl_test.py
 /test.py
