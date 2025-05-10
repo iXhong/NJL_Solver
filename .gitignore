@@ -1,0 +1,6 @@
+*.npz
+*.npy
+/*.png
+/njl_02.ipynb
+/njl_fsolve.py
+/njl_test.py
